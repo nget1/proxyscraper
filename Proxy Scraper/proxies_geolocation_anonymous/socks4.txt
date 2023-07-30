@@ -1,0 +1,123 @@
+45.128.133.145:1080|Belgium|Brussels Capital|Brussels
+185.161.210.184:37412|Netherlands|Flevoland|Dronten
+212.83.143.151:32429|United Kingdom|England|London
+217.117.142.25:3629|Poland|Lesser Poland|Tarnów
+185.207.101.129:1080|Switzerland|Lucerne|Lucerne
+109.238.223.1:51372|Czechia|Hlavni mesto Praha|Prague
+91.150.77.58:56921|Serbia|Belgrade|Belgrade
+176.58.17.1:4153|Poland|West Pomerania|Choszczno
+79.106.34.6:4145|Albania|Korçë County|Korçë
+146.0.83.24:4145|Ukraine|Kyiv Oblast|Vyshneve
+46.227.37.1:1088|Poland|Pomerania|Zukowo
+8.42.71.1:39593|United States|Colorado|Golden
+94.72.158.129:4153|Bulgaria|Plovdiv|Plovdiv
+31.206.38.50:37630|Turkey|Istanbul|Istanbul
+108.175.23.241:13135|United States|Texas|Houston
+50.236.148.246:31699|United States|Maryland|Hyattsville
+50.47.75.221:5678|United States|Washington|Woodinville
+197.253.30.1:10081|Nigeria|Lagos|Lagos
+185.47.48.109:1025|Iran|Tehran|Tehran
+66.29.128.242:46655|United States|Kansas|Benton
+200.60.71.14:46934|Peru|Lima region|Villa
+45.7.177.191:39867|Brazil|Alagoas|Passo de Camaragibe
+191.97.2.198:5678|Colombia|Departamento del Valle del Cauca|Santiago de Cali
+168.90.64.228:4153|Brazil|Pernambuco|Caruaru
+223.26.16.1:5678|India|Maharashtra|Mumbai
+103.140.83.97:4145|Bangladesh|Dhaka Division|Dhaka
+103.121.62.249:5678|Bangladesh|Rajshahi Division|Rajshahi
+200.170.206.154:1080|Brazil|Sao Paulo|São Paulo
+103.225.125.161:4153|India|Tamil Nadu|Ariyanendal
+170.83.240.128:4153|Paraguay|Asuncion|Asunción
+167.249.84.105:4153|Brazil|Minas Gerais|Araxá
+202.53.174.22:1080|Bangladesh|Dhaka Division|Dhaka
+181.209.77.202:4153|Argentina|Buenos Aires|Benavidez
+187.9.76.158:4153|Brazil|Sao Paulo|São Paulo
+187.95.82.146:3629|Brazil|Sao Paulo|Aracariguama
+103.130.114.204:39163|Bangladesh|Dhaka Division|Dhaka
+120.50.13.38:40308|Bangladesh|Dhaka Division|Dhaka
+181.174.224.17:4153|Peru|Lima|Lima
+200.199.226.165:4153|Brazil|Goias|Goiânia
+201.234.24.1:4153|Argentina|Cordoba|Córdoba
+101.133.229.151:10080|Hong Kong|Central and Western District|Central
+116.204.152.9:4153|Bangladesh|Dhaka Division|Tongi
+47.99.156.60:7891|United States|Virginia|Ashburn
+200.0.247.84:4153|Argentina|Buenos Aires F.D.|Buenos Aires
+131.196.180.1:4153|Argentina|Cordoba|Córdoba
+103.141.148.62:5678|Indonesia|Aceh|Banda Aceh
+118.67.220.225:4145|Bangladesh|Dhaka Division|Dhaka
+201.234.24.89:4153|Argentina|Cordoba|Costa Sacate
+200.199.226.161:4153|Brazil|Goias|Goiânia
+37.18.73.94:5566|United States|Washington|Seattle
+45.128.133.169:1080|Belgium|Brussels Capital|Brussels
+190.3.72.39:3629|Argentina|Cordoba|Córdoba
+47.88.8.11:10080|Hong Kong|Central and Western District|Central
+41.70.106.1:5678|Malawi|Southern Region|Zomba
+185.89.65.170:33744|Poland|Łódź Voivodeship|Lubochnia
+103.252.119.224:7890|Hong Kong|Central and Western|Hong Kong
+170.254.92.198:4153|Argentina|Catamarca|Santa Maria
+195.120.78.30:5678|Italy|Lombardy|Milan
+185.66.59.93:42647|Spain|Valencia|Valencia
+154.94.0.133:5678|Mexico|Guanajuato|Los Medranos
+34.148.213.224:31095|United Kingdom|England|London
+181.78.24.30:5678|Colombia|Quindio Department|Calarcá
+189.201.187.3:4145|Mexico|Aguascalientes|Aguascalientes
+185.161.210.184:21687|Netherlands|Flevoland|Dronten
+191.36.191.53:5678|Brazil|Piaui|Piripiri
+103.82.233.2:1089|Indonesia|Jakarta|Jakarta
+45.7.177.189:39867|Brazil|Alagoas|Passo de Camaragibe
+181.174.224.6:4153|Peru|Lima|Lima
+105.29.93.193:4145|South Africa|Gauteng|Johannesburg
+103.36.35.251:5678|Indonesia|West Java|Ancol Timur
+202.43.191.14:5430|Indonesia|Jakarta|Jakarta
+103.79.96.145:4153|Indonesia|Jakarta|Jakarta
+1.179.173.114:4153|Thailand|Chaiyaphum|Noen Sa-nga
+122.200.144.132:3629|Indonesia|Jakarta|Jakarta
+177.184.67.61:4145|Brazil|Rio de Janeiro|Pirai
+191.102.250.73:4153|Argentina|Santa Fe|Rosario
+187.32.20.249:5678|Brazil|Sao Paulo|Sao Jose do Rio Preto
+103.121.215.34:40927|Indonesia|Jakarta|Cilangkap
+103.86.194.74:5678|Bangladesh|Dhaka Division|Dhaka
+103.224.54.233:31433|India|Uttar Pradesh|Lucknow
+103.151.47.14:46889|Pakistan|Punjab|Lahore
+103.182.48.102:4145|Indonesia|East Java|Probolinggo
+200.43.231.16:4153|Argentina|Misiones|Obera
+177.72.115.141:31164|Brazil|Sao Paulo|São Paulo
+170.81.108.45:4153|Brazil|Bahia|Itapetinga
+58.65.167.165:4145|Pakistan|Punjab|Multan
+170.210.80.161:4153|Argentina|Rio Negro|Cipolletti
+103.36.35.249:5678|Indonesia|West Java|Ancol Timur
+115.193.174.238:7891|Hong Kong|Wan Chai|Wanchai
+91.121.42.56:44807|France|Hauts-de-France|Gravelines
+45.128.135.65:1080|Belgium|Brussels Capital|Brussels
+212.200.149.242:5678|Serbia|Belgrade|Belgrade
+80.80.162.81:10805|Kosovo|Pristina|Pristina
+185.209.220.255:1080|Belgium|Brussels Capital|Brussels
+183.172.226.16:7891|Hong Kong|Central and Western District|Central
+50.250.75.153:39593|United States|Florida|Miami Beach
+8.42.71.226:39593|United States|Colorado|Black Hawk
+12.158.87.26:39593|United States|Indiana|Indianapolis
+95.158.153.70:61601|Bulgaria|Lovech|Troyan Municipality
+201.184.29.124:4145|Colombia|Bogota D.C.|Bogotá
+103.212.95.253:41363|India|Maharashtra|Pune
+8.42.68.249:39593|United States|Colorado|Denver
+65.49.67.1:48324|United States|California|Santa Rosa
+103.95.97.54:4153|Bangladesh|Dhaka Division|Dhaka
+187.95.82.109:3629|Brazil|Sao Paulo|Aracariguama
+94.182.26.44:4153|Iran|Kerman|Rafsanjan
+45.117.228.81:4145|Malaysia|Selangor|Petaling Jaya
+122.200.144.133:3629|Indonesia|Jakarta|Jakarta
+102.64.116.254:4145|Congo Republic|Likouala|Impfondo
+202.129.52.173:4153|Thailand|Surin|Si Khoraphum
+191.7.208.103:31576|Brazil|Ceara|Crateus
+36.92.9.77:49420|Indonesia|Banten|Tangerang
+103.169.159.21:1088|Bangladesh|Dhaka Division|Dhaka
+177.72.113.225:31164|Brazil|Sao Paulo|São Paulo
+119.18.158.130:4153|Indonesia|West Java|Bandung
+103.214.156.32:5678|Bangladesh|Dhaka Division|Dhaka
+103.159.218.185:5678|Bangladesh|Dhaka Division|Dhaka
+103.105.40.254:4145|India|Telangana|Hyderabad
+115.242.248.222:5678|India|Odisha|Bhubaneswar
+177.131.29.208:4153|Brazil|Amapa|Macapá
+45.232.226.137:52104|Brazil|Pernambuco|Sao Jose do Egito
+59.66.196.20:7891|Japan|Tokyo|Tokyo
+36.92.185.29:1080|Indonesia|Jakarta|Jakarta

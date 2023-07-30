@@ -1,0 +1,206 @@
+51.255.95.41:59166|France|Hauts-de-France|Gravelines
+136.243.40.168:59166|Germany|Bavaria|Falkenstein
+176.31.182.123:59166|France|Hauts-de-France|Roubaix
+159.69.117.155:42572|Germany|Bavaria|Nuremberg
+51.178.82.49:59166|France|Nouvelle-Aquitaine|Bordeaux
+185.55.65.45:8192|Poland|Silesia|Blachownia
+185.152.47.131:8192|Italy|Molise|Campobasso
+80.169.243.234:1080|United Kingdom|England|London
+37.252.1.145:34918|Russia|Moscow|Moscow
+86.206.214.11:1080|Switzerland|Zurich|Zurich
+192.111.135.17:18302|United States|Georgia|Atlanta
+192.252.208.67:14287|United States|Georgia|Atlanta
+93.184.4.254:1080|Palestinian Territory|West Bank|Ramallah
+205.240.77.164:4145|United States|Wyoming|Cheyenne
+192.111.130.5:17002|Canada|Ontario|Toronto
+192.252.214.20:15864|United States|Georgia|Atlanta
+192.111.130.2:4145|Canada|Ontario|Toronto
+192.111.137.37:18762|United States|Georgia|Atlanta
+64.227.105.170:59166|United States|California|Santa Clara
+72.37.216.68:4145|United States|California|Beverly Hills
+192.252.216.81:4145|United States|Georgia|Atlanta
+192.111.135.18:18301|United States|Georgia|Atlanta
+198.8.94.170:4145|United States|Georgia|Atlanta
+192.252.209.155:14455|United States|Georgia|Atlanta
+192.111.138.29:4145|United States|Georgia|Atlanta
+192.111.134.10:4145|United States|California|Los Angeles
+184.170.249.65:4145|United States|Georgia|Atlanta
+192.252.208.70:14282|United States|Georgia|Atlanta
+98.188.47.132:4145|United States|Louisiana|Baton Rouge
+199.229.254.129:4145|United States|Georgia|Atlanta
+184.178.172.18:15280|United States|Virginia|Roanoke
+192.111.139.162:4145|United States|Georgia|Atlanta
+72.221.196.157:35904|United States|California|San Diego
+98.170.57.231:4145|United States|Georgia|Atlanta
+98.170.57.249:4145|United States|Georgia|Atlanta
+184.181.217.201:4145|United States|Louisiana|Baton Rouge
+98.162.96.41:4145|United States|California|San Diego
+192.111.137.34:18765|United States|Georgia|Atlanta
+68.71.254.6:4145|United States|California|Beverly Hills
+142.54.228.193:4145|United States|California|Los Angeles
+72.206.181.103:4145|United States|Arizona|Phoenix
+98.162.25.16:4145|United States|Nebraska|Omaha
+184.181.217.213:4145|United States|Louisiana|Baton Rouge
+199.58.185.9:4145|United States|Georgia|Atlanta
+192.111.129.145:16894|United States|Georgia|Atlanta
+192.252.220.89:4145|United States|California|Los Angeles
+184.178.172.25:15291|United States|Virginia|Roanoke
+74.119.147.209:4145|United States|Georgia|Atlanta
+107.152.98.5:4145|United States|California|Los Angeles
+199.58.184.97:4145|United States|Georgia|Atlanta
+184.178.172.26:4145|United States|Virginia|Roanoke
+72.217.216.239:4145|United States|Arizona|Phoenix
+104.200.152.30:4145|United States|California|Los Angeles
+184.181.217.220:4145|United States|Louisiana|Baton Rouge
+184.178.172.17:4145|United States|Virginia|Roanoke
+174.64.199.82:4145|United States|Louisiana|Baton Rouge
+184.178.172.14:4145|United States|Virginia|Roanoke
+72.221.172.203:4145|United States|California|San Diego
+98.188.47.150:4145|United States|Louisiana|Baton Rouge
+72.206.181.123:4145|United States|Arizona|Phoenix
+68.71.247.130:4145|United States|California|Los Angeles
+174.75.211.222:4145|United States|Louisiana|Baton Rouge
+192.111.139.165:4145|United States|Georgia|Atlanta
+98.178.72.21:10919|United States|Louisiana|Baton Rouge
+72.195.34.60:27391|United States|California|Irvine
+72.221.232.152:4145|United States|California|San Diego
+184.170.248.5:4145|United States|Georgia|Atlanta
+184.181.217.210:4145|United States|Louisiana|Baton Rouge
+174.77.111.197:4145|United States|Oklahoma|Tulsa
+184.181.217.194:4145|United States|Louisiana|Baton Rouge
+72.195.114.169:4145|United States|California|Irvine
+184.178.172.28:15294|United States|Virginia|Roanoke
+192.252.211.197:14921|United States|Georgia|Atlanta
+72.195.34.58:4145|United States|California|Irvine
+184.178.172.3:4145|United States|Virginia|Roanoke
+72.37.217.3:4145|United States|New York|Syracuse
+185.151.86.86:3699|Ukraine|Cherkasy Oblast|Cherkasy
+98.162.25.29:31679|United States|Nebraska|Omaha
+142.54.226.214:4145|United States|California|Beverly Hills
+67.201.33.10:25283|United States|California|Santa Ana
+98.162.25.23:4145|United States|Nebraska|Omaha
+78.158.162.42:1080|Iran|Kurdistan Province|Ja‘farābād
+72.221.232.155:4145|United States|California|San Diego
+68.71.249.153:48606|United States|California|Los Angeles
+104.168.148.37:1080|United States|Florida|Miami
+68.183.90.210:59166|India|Karnataka|Bengaluru
+142.54.232.6:4145|United States|California|Los Angeles
+192.111.137.35:4145|United States|Georgia|Atlanta
+142.54.237.34:4145|United States|California|Los Angeles
+43.226.26.120:59166|United States|California|Los Angeles
+192.252.220.92:17328|United States|California|Los Angeles
+184.170.245.148:4145|United States|Georgia|Atlanta
+98.162.96.52:4145|United States|California|San Diego
+104.200.135.46:4145|United States|California|Los Angeles
+206.220.175.2:4145|United States|California|Los Angeles
+98.162.25.4:31654|United States|Nebraska|Omaha
+110.235.250.155:1080|Cambodia|Phnom Penh|Phnom Penh
+66.42.224.229:41679|United States|Ohio|Cincinnati
+47.99.156.60:7891|United States|Virginia|Ashburn
+85.215.229.3:125|Germany|Land Berlin|Berlin
+72.195.34.42:4145|United States|California|Irvine
+185.171.202.190:1080|France|Île-de-France|Paris
+24.249.199.4:4145|United States|Florida|Pensacola
+46.10.208.106:8192|Bulgaria|Sofia-Capital|Sofia
+72.195.34.59:4145|United States|California|Irvine
+47.243.197.34:22000|Hong Kong|Central and Western District|Central
+31.217.221.74:8192|Austria|Upper Austria|Sankt Wolfgang im Salzkammergut
+116.233.112.168:1080|Hong Kong|Central and Western District|Central
+74.119.144.60:4145|United States|Georgia|Atlanta
+107.181.168.145:4145|United States|California|Los Angeles
+31.202.25.190:3128|Ukraine|Kharkiv|Kharkiv
+142.54.231.38:4145|United States|California|Los Angeles
+47.243.95.228:10080|Hong Kong|Central and Western District|Central
+142.54.229.249:4145|United States|California|Los Angeles
+159.89.163.128:59166|India|Karnataka|Bengaluru
+103.252.119.224:7890|Hong Kong|Central and Western|Hong Kong
+202.29.239.197:59166|Thailand|Chachoengsao|Ban Pho
+115.193.174.238:7891|Hong Kong|Wan Chai|Wanchai
+104.37.135.145:4145|United States|California|Los Angeles
+47.88.8.11:10080|Hong Kong|Central and Western District|Central
+118.176.202.21:15226|South Korea|Gyeonggi-do|Yeoju
+89.179.78.113:10800|Russia|Astrakhan Oblast|Astrakhan
+91.105.163.245:1080|Russia|Omsk Oblast|Omsk
+34.148.213.224:31095|United States|New York|Brooklyn
+109.197.55.25:49020|Russia|St.-Petersburg|Kolpino
+184.178.172.5:15303|United States|Virginia|Roanoke
+184.178.172.11:4145|United States|Virginia|Roanoke
+98.162.96.53:10663|United States|California|San Diego
+192.111.139.163:19404|United States|Georgia|Atlanta
+72.195.34.35:27360|United States|California|Irvine
+98.181.137.80:4145|United States|Nevada|North Las Vegas
+68.1.210.163:4145|United States|California|San Diego
+45.32.114.246:8081|Germany|North Rhine-Westphalia|Langenfeld
+174.64.199.79:4145|United States|Louisiana|Baton Rouge
+91.121.177.31:24246|France|Hauts-de-France|Roubaix
+142.54.239.1:4145|United States|California|Los Angeles
+72.221.171.135:4145|United States|California|San Diego
+98.162.25.7:31653|United States|Nebraska|Omaha
+72.210.252.137:4145|United States|Arizona|Phoenix
+72.210.221.223:4145|United States|Arizona|Phoenix
+72.221.164.34:60671|United States|California|San Diego
+70.166.167.55:57745|United States|Louisiana|Baton Rouge
+67.210.146.50:11080|United States|Texas|Princeton
+142.54.235.9:4145|United States|California|Los Angeles
+72.195.34.41:4145|United States|California|Irvine
+109.248.235.46:4890|Russia|Altai Krai|Kamen'-na-Obi
+72.206.181.97:64943|United States|Arizona|Phoenix
+37.18.73.94:5566|United States|Washington|Seattle
+198.8.84.3:4145|United States|California|Los Angeles
+183.172.226.16:7891|Hong Kong|Central and Western District|Central
+37.44.238.2:54140|France|Île-de-France|Paris
+5.196.204.173:10211|Spain|Madrid|Madrid
+98.175.31.195:4145|United States|Virginia|Norfolk
+72.221.171.130:4145|United States|California|San Diego
+104.131.144.43:62797|United States|California|San Francisco
+43.248.27.8:4646|Indonesia|Jakarta|Jakarta
+72.210.208.101:4145|United States|Arizona|Phoenix
+142.54.236.97:4145|United States|California|Los Angeles
+208.102.51.6:58208|United States|Kentucky|Alexandria
+72.210.252.134:46164|United States|Arizona|Phoenix
+184.181.217.206:4145|United States|Louisiana|Baton Rouge
+159.69.153.169:5566|United States|Washington|Seattle
+184.178.172.23:4145|United States|Virginia|Roanoke
+134.209.105.160:4904|Singapore|South West|Singapore
+98.181.137.83:4145|United States|Nevada|North Las Vegas
+208.126.108.221:62311|United States|Iowa|Bloomfield
+51.77.99.180:443|United Kingdom|England|London
+173.212.245.45:56029|Germany|Bavaria|Nuremberg
+45.55.32.201:29857|United States|New Jersey|Clifton
+103.121.23.205:8080|Indonesia|West Java|Depok
+59.66.196.20:7891|Japan|Tokyo|Tokyo
+167.172.102.133:30399|Germany|Hesse|Frankfurt am Main
+188.165.225.139:1433|France|Hauts-de-France|Roubaix
+174.77.111.196:4145|United States|Oklahoma|Tulsa
+91.121.177.31:41683|France|Hauts-de-France|Roubaix
+72.210.221.197:4145|United States|Arizona|Phoenix
+103.127.204.111:25211|Vietnam|Hanoi|Hanoi
+129.146.128.237:59166|United States|Arizona|Phoenix
+157.245.1.59:51438|United States|New Jersey|Clifton
+69.61.200.104:36181|United States|Ohio|Cincinnati
+172.105.3.174:37406|Canada|Ontario|Toronto
+216.127.184.182:58587|United States|New York|Upton
+72.195.114.184:4145|United States|California|Irvine
+221.134.152.75:7302|India|Tamil Nadu|Chennai
+195.168.10.9:7681|Slovakia|Trnava|Vydrany
+157.245.1.59:33530|United States|New Jersey|Clifton
+72.49.49.11:31034|United States|Ohio|Cincinnati
+195.66.156.196:1080|Ukraine|Zakarpattia Oblast|Tyachiv
+94.182.190.241:1080|Iran|Tehran|Tehran
+195.46.122.177:4891|Russia|Irkutsk Oblast|Nizhneudinsk
+174.77.111.198:49547|United States|Oklahoma|Tulsa
+104.236.45.251:6945|United States|New Jersey|Clifton
+166.62.123.239:18008|United States|Arizona|Tempe
+24.249.199.12:4145|United States|Florida|Pensacola
+139.59.7.217:36590|India|Karnataka|Bengaluru
+202.149.89.69:7999|Indonesia|Jakarta|Kuningan Barat
+69.27.14.138:59144|United States|Utah|Salt Lake City
+173.249.33.122:54853|Germany|Bavaria|Nuremberg
+103.111.227.217:1080|Bangladesh|Chittagong|Chittagong
+178.128.221.244:49428|Singapore|South West|Singapore
+167.99.151.120:5564|United States|New Jersey|North Bergen
+104.236.45.251:64300|United States|New Jersey|Clifton
+51.222.108.216:48569|Canada|Quebec|Beauharnois
+103.209.64.19:6667|India|Gujarat|Idar
+188.166.230.38:21429|Singapore|South West|Singapore
+54.39.87.232:39721|Canada|Quebec|Montreal
